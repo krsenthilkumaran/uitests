@@ -32,7 +32,7 @@
 							<id>ng-protractor</id>
 							<phase>integration-test</phase>
 							<goals>
-								<goal>test</goal>
+								<goal>run</goal>
 							</goals>
 						</execution>
 					</executions>
