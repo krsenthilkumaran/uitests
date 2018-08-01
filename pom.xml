@@ -31,7 +31,7 @@
 			</plugin>
 			<plugin>
 					<groupId>com.github.greengerong</groupId>
-					<artifactId>maven-ng-protractor</artifactId>
+					<artifactId>uiAutoTestsRPE</artifactId>
 					<version>0.0.2</version>
 					<configuration>
 						<protractor>protractor</protractor>
