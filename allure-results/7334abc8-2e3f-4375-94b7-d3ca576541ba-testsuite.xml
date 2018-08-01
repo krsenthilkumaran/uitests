@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533139752154' stop='1533139801345'>
+    <name>Master_Region</name>
+    <title>Master_Region</title>
+    <test-cases>
+        <test-case start='1533139752154' status='undefined'>
+            <name>Master_Region - Maker</name>
+            <title>Master_Region - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139764203' status='undefined'>
+            <name>Create Multiple Region</name>
+            <title>Create Multiple Region</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139776250' status='undefined'>
+            <name>Master Region Null value</name>
+            <title>Master Region Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139789302' status='undefined'>
+            <name>Save the Region</name>
+            <title>Save the Region</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

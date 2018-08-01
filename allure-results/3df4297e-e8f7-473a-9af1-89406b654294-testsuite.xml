@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533139604501' stop='1533139653695'>
+    <name>Master_CustomerSegment</name>
+    <title>Master_CustomerSegment</title>
+    <test-cases>
+        <test-case start='1533139604502' status='undefined'>
+            <name>Master_CustomerSegment - Maker</name>
+            <title>Master_CustomerSegment - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139616551' status='undefined'>
+            <name>Create Multiple Customer_Segment</name>
+            <title>Create Multiple Customer_Segment</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139628599' status='undefined'>
+            <name>Master Customer Segment Null value</name>
+            <title>Master Customer Segment Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139641656' status='undefined'>
+            <name>Save the Customer Segment </name>
+            <title>Save the Customer Segment </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

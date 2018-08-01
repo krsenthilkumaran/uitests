@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533139949020' stop='1533139998230'>
+    <name>Master_Cohort_Category</name>
+    <title>Master_Cohort_Category</title>
+    <test-cases>
+        <test-case start='1533139949021' status='undefined'>
+            <name>Master_Cohort_Category - Maker</name>
+            <title>Master_Cohort_Category - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139961076' status='undefined'>
+            <name>Create Multiple Cohort Category</name>
+            <title>Create Multiple Cohort Category</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139973120' status='undefined'>
+            <name>Master Merchant Null value</name>
+            <title>Master Merchant Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139986184' status='undefined'>
+            <name>Save the Cohort Catagory</name>
+            <title>Save the Cohort Catagory</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
