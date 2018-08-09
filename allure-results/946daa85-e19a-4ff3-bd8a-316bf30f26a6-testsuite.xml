@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533140122812' stop='1533140159979'>
+    <name>Master_FeeCode</name>
+    <title>Master_FeeCode</title>
+    <test-cases>
+        <test-case start='1533140122812' status='undefined'>
+            <name>Master_FeeCode - Maker</name>
+            <title>Master_FeeCode - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533140134858' status='undefined'>
+            <name>Create Multiple Currency</name>
+            <title>Create Multiple Currency</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533140146913' status='undefined'>
+            <name>Master Fee Code Null value</name>
+            <title>Master Fee Code Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

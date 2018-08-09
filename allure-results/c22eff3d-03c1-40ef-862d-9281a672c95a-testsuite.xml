@@ -1,0 +1,31 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533140048461' stop='1533140085619'>
+    <name>Master_Trans_Code</name>
+    <title>Master_Trans_Code</title>
+    <test-cases>
+        <test-case start='1533140048461' status='undefined'>
+            <name>Master_Trans_Code - Maker</name>
+            <title>Master_Trans_Code - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533140060514' status='undefined'>
+            <name>Create Multiple Master_Trans_Code</name>
+            <title>Create Multiple Master_Trans_Code</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533140072565' status='undefined'>
+            <name>Master_Trans_Code Null value</name>
+            <title>Master_Trans_Code Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533139899792' stop='1533139949012'>
+    <name>Master_Exception Reason</name>
+    <title>Master_Exception Reason</title>
+    <test-cases>
+        <test-case start='1533139899793' status='undefined'>
+            <name>Master_Exception Reason - Maker</name>
+            <title>Master_Exception Reason - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139911853' status='undefined'>
+            <name>Create Multiple Exception Reason</name>
+            <title>Create Multiple Exception Reason</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139923906' status='undefined'>
+            <name>Master Exception Reason Null value</name>
+            <title>Master Exception Reason Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139936969' status='undefined'>
+            <name>Save the Exception Reason </name>
+            <title>Save the Exception Reason </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

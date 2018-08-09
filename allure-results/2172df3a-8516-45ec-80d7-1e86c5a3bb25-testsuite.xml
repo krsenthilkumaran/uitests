@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533139653701' stop='1533139702919'>
+    <name>Master_Country</name>
+    <title>Master_Country</title>
+    <test-cases>
+        <test-case start='1533139653701' status='undefined'>
+            <name>Master_Country - Maker</name>
+            <title>Master_Country - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139665759' status='undefined'>
+            <name>Create Multiple Country</name>
+            <title>Create Multiple Country</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139677815' status='undefined'>
+            <name>Master Country Null value</name>
+            <title>Master Country Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139690879' status='undefined'>
+            <name>Save the Country </name>
+            <title>Save the Country </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

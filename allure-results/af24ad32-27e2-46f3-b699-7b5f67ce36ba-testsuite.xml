@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1533139702925' stop='1533139752146'>
+    <name>Master_State</name>
+    <title>Master_State</title>
+    <test-cases>
+        <test-case start='1533139702925' status='undefined'>
+            <name>Master_State - Maker</name>
+            <title>Master_State - Maker</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139714980' status='undefined'>
+            <name>Create Multiple State</name>
+            <title>Create Multiple State</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139727045' status='undefined'>
+            <name>Master State Null value</name>
+            <title>Master State Null value</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1533139740106' status='undefined'>
+            <name>Save the State</name>
+            <title>Save the State</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
