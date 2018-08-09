@@ -1,31 +1,18 @@
 exports.config = {
 
-    directConnect : true,
-    framework: 'jasmine2',
+//    directConnect : true,
+      framework: 'jasmine2',
 
- //   seleniumAddress: 'http://localhost:4444/wd/hub',
- // seleniumSessionId: 'b57ea1a0f2dea00a7569bd32314c65ea',
+//    seleniumAddress: 'http://localhost:4444/wd/hub',
+//    seleniumSessionId: 'd6e5e57a6cf83830740812b2c297d35b',
 
     capabilities: {
         browserName: 'chrome',
  //       acceptInsecureCerts: true,
 
-/*                chromeOptions: {
+                chromeOptions: {
                     args: [ "--headless","--disable-extensions", "--incognito","--window-size=1366,768" ]
-                },  
-			
-
-          {
-                browserName: 'firefox',
-                    firefoxOptions: {
-                args: ['-headless']
-            },
-                'moz:firefoxOptions': {
-                args: ['-headless']
-            }
-            }   */
-
-
+                },
 
             },
 
@@ -53,14 +40,14 @@ exports.config = {
 
         ],
 
- /*       Products: [
+        Products: [
 
             'Specs/Products.js',
             'Specs/Workflow.js',
             'Specs/Checker-Login_Approval.js'
 
 
-        ]   */
+        ]
     },
     allScriptsTimeout: 1200000,
     getPageTimeout: 500000,
